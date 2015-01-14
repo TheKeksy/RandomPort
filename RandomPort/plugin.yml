@@ -1,0 +1,7 @@
+name: RandomPort
+main: de.github.TheKeksy.RandomPort.RandomPort
+version: 1.6.0
+commands:
+  tpr:
+    usage: /tpr
+    description: Teleport to a random position
